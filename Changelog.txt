@@ -1,7 +1,6 @@
 **v1.2.0**
 
 - Added compatibility with EVE clouds
-- Added compatibility with Pood's OPM-VO
 
 
 **v1.1.0**
