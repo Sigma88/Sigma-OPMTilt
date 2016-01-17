@@ -1,3 +1,8 @@
+**v1.2.0**
+
+- Added compatibility with EVE clouds
+
+
 **v1.1.0**
 
 - Updated to KSP 1.0.5
