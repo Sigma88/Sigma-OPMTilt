@@ -9,6 +9,7 @@ The following files were modified from OuterPlanetsMod and are licensed CC-BY-NC
 
 GameData/Sigma/OPMTilt/PluginData/Textures/Urlum_color.dds
 GameData/Sigma/OPMTilt/PluginData/Textures/Urlum_recolor.dds
+GameData/Sigma/OPMTilt/PluginData/Textures/Wal_biome.dds
 
 Link to the originals: http://forum.kerbalspaceprogram.com/index.php/topic/93999-/
 
